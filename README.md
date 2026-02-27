@@ -1,13 +1,12 @@
 # Hi, I'm tolasing 👋 
-###  Master Builder | Robotics Alchemist | AI Whisperer
+###  Master Builder 🤖🔧 | Robotics wizard | AI Whisperer
 
-![LEGO Master Builder](https://img.shields.io/badge/LEGO-Master_Builder-E3000B?style=for-the-badge&logo=lego&logoColor=white)
 
 I don't just write code; I "snap" together complex intelligent machines. I spend my days bridging the gap between high-level digital reasoning and the messy physical world. Currently, I'm obsessed with making **Autonomous Mobile Robots (AMRs)** smart enough to hold a conversation while they navigate a warehouse.
 
 ---
 
-## 🛠️ The Toolkit (My Digital Bricks)
+## The Toolkit (My Digital Bricks)
 
 ### **🕹️ Robotics & Control**
 * **Frameworks:** ROS 2 (Humble/Foxy), Nav2, MoveIt2
