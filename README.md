@@ -46,8 +46,8 @@ A prototype security robot focused on autonomous surveillance and intelligent en
 ---
 
 ## 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/tolasing](https://linkedin.com/in/your-profile)
+* **LinkedIn:** [linkedin](https://linkedin.com/in/tolasingganesh)
 * **Portfolio Site:** [https://[your-username].github.io](https://[your-username].github.io)
-* **Email:** [your-email@example.com]
+* **Email:** [tolasingganesh@gmail.com]
 
-> "The best way to predict the future is to build it."
+> "Greatness from small beginnings."
