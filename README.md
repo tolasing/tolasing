@@ -1,5 +1,5 @@
 # Hi, I'm tolasing
-### Robotics Engineer | AMR Specialist | AI Integration
+### Master Builder
 
 I specialize in building intelligent machines that bridge the gap between high-level reasoning and physical execution. My work focuses on developing **Autonomous Mobile Robots (AMRs)** for industrial environments, utilizing **ROS 2** and **Large Language Models** to create intuitive human-robot interaction layers.
 
@@ -11,14 +11,15 @@ I specialize in building intelligent machines that bridge the gap between high-l
 * **Frameworks:** ROS 2 (Humble/Foxy), Nav2, MoveIt2
 * **Simulation:** MuJoCo, Gazebo, Rviz
 * **Hardware:** LiDAR SLAM, IMU Fusion, Differential Drive Systems, 6DOF Arms
+* **CAD**:** Solidworks
 
 ### **Artificial Intelligence**
 * **LLMs:** OpenAI GPT-4o Integration, LangChain
 * **Vision:** OpenCV, YOLO, Object Detection/Tracking
-* **Logic:** Behavior Trees, State Machines
+* **Logic:** Behavior Trees
 
 ### **Software Engineering**
-* **Languages:** Python, C++, GML
+* **Languages:** Python, C++,
 * **Tools:** Git, Docker, Linux (Ubuntu), GitHub Actions
 
 ---
@@ -40,14 +41,14 @@ A prototype security robot focused on autonomous surveillance and intelligent en
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=transparent)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[tolasing]&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[tolasing]&layout=compact&theme=transparent)
 
 ---
 
 ## 📫 Connect with Me
 * **LinkedIn:** [linkedin](https://linkedin.com/in/tolasingganesh)
-* **Portfolio Site:** [https://[your-username].github.io](https://[your-username].github.io)
+* **Portfolio Site:** [https://tolasing.github.io](https://tolasing.github.io)
 * **Email:** [tolasingganesh@gmail.com]
 
-> "Greatness from small beginnings."
+> "The best way to predict the future is to build it."
