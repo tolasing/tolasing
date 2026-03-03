@@ -3,11 +3,11 @@
 ## Everything is awesome!!
 
 
-I don't just write code; I "snap" together complex intelligent machines. I spend my days bridging the gap between high-level digital reasoning and the messy physical world. Currently, I'm obsessed with making **Autonomous Mobile Robots (AMRs)** smart enough to hold a conversation while they navigate a warehouse.
+I'm obsessed with automating the simple tasks so humans can focus on what really matters.
 
 ---
 
-## The Toolkit (My Digital Bricks)
+## The Toolkit
 
 ### **🕹️ Robotics & Control**
 * **Frameworks:** ROS 2 (Humble/Foxy), Nav2, MoveIt2
@@ -26,11 +26,11 @@ I don't just write code; I "snap" together complex intelligent machines. I spend
 
 ---
 
-## 🚀 Projects Under Construction
+##  My builds:
 
 ### [TITAN](https://github.com/tolasing/Titan) 🤖📦
 **Transport Intelligence & Traversal Autonomous Navigation**
-An industrial-grade warehouse AMR that doesn't need a map—it just needs a chat.
+An industrial-grade warehouse AMR.
 * **The Magic:** Integrated ChatGPT so you can literally tell the robot where to take the crates.
 * **Bricks Used:** ROS 2 Humble, Nav2, LiDAR SLAM, OpenAI API.
 
@@ -39,18 +39,11 @@ An industrial-grade warehouse AMR that doesn't need a map—it just needs a chat
 A security robot that's part guardian, part conversationalist.
 * **The Magic:** Built a cognitive layer so R.O.S.I.E. can assess "vibes" (threats) and talk back via LLM processing.
 * **Bricks Used:** ROS 2, OpenCV, Voice Synthesis, ChatGPT.
-
 ---
 
-## 📊 My Build History
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tolasing&show_icons=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolasing&layout=compact&theme=nord)
-
----
-
-## 📫 Let's Snap Some Bricks Together!
+## 📫 Let's build something awesome!
 * **LinkedIn:** [tolasingganesh](https://linkedin.com/in/tolasingganesh)
 * **Digital Workshop:** [tolasing.github.io](https://tolasing.github.io)
 * **Signal:** [tolasingganesh@gmail.com]
 
-> "Everything is awesome when you're part of a (robotics) team!" 🧱🤖
+> "greatness from small beginnings-Sir Francis Drake"
